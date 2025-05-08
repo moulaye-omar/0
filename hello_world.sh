@@ -1,2 +1,3 @@
 #!/bin/bash
-    echo "Hello, World!"
+#Afficher le message de bienvenue "hello world"
+echo "Hello, World!"
